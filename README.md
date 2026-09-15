@@ -2,8 +2,6 @@
 
 > Ferramenta em Microsoft Excel para **organizar e reunir as informações essenciais da Declaração de Imposto de Renda Pessoa Física (IRPF)** — com menus de navegação, validação de dados, tabelas estruturadas, fórmulas automáticas e um dashboard consolidado.
 
-Projeto desenvolvido para o desafio de projeto da **[DIO](https://www.dio.me/)**.
-
 ![Tela inicial](images/inicio.png)
 
 ---
@@ -166,11 +164,11 @@ A documentação técnica completa (arquitetura, tabelas, fórmulas, validaçõe
 
 ## 👩‍💻 Autora
 
-**Bel**
+**Robelsa Vasconcelos**
 Projeto desenvolvido para o desafio da **DIO — Digital Innovation One**.
 
-- 💼 LinkedIn: _adicione seu link aqui_
-- 🐙 GitHub: _adicione seu perfil aqui_
+- 💼 LinkedIn: _(https://www.linkedin.com/in/robelsa/)_
+
 
 ---
 
